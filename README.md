@@ -1,5 +1,5 @@
 # Data-Analyst
-#### Technical Skills :- Python , R , SQL , power bi 
+#### Technical Skills :- Python , R , SQL , power bi , Tableau
 ## Education 
 - BSc.IT (May-2024)
 

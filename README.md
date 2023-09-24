@@ -3,7 +3,7 @@
 ---
 ---
 ## Education 
-- BSc.IT (May-2024)
+- BSc.IT(Beachlour of Science in Information Technology) from LJSCA (Lok Jagruti School of Computer Application in the year of may-2024)
 
 ---
 

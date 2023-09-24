@@ -3,12 +3,12 @@
 ---
 ---
 ## Education 
-- BSc.IT(Beachlour of Science in Information Technology) from LJSCA (Lok Jagruti School of Computer Application in the year of may-2024)
+- BSc.IT(Bachelor of Science in Information Technology) from LJSCA (Lok Jagruti School of Computer Application) in the year of may-2024
 
 ---
 
 ## Work Experience 
-- Fresher
+- seeking for a company for an Internship to get work experience
 
 ---
 

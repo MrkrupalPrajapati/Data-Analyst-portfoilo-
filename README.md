@@ -1,13 +1,13 @@
 # Data-Analyst
 #### Technical Skills :- Python , R , SQL , power bi 
 ## Education 
-BSc.IT (May-2024)
+- BSc.IT (May-2024)
 
 ## Work Experience 
 - Fresher
 
 ## Projects
--None
+- None
 
 ## Course 
    [SQL(Basic)](https://www.hackerrank.com/certificates/2034dd061c66),

@@ -8,3 +8,6 @@ BSc.IT
 
 ### Projects
 -None
+
+### Course 
+- python 

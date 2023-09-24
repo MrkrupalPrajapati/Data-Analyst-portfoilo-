@@ -4,7 +4,7 @@
 
 ## Education 
 - BSc.IT (May-2024)
-
+---
 ## Work Experience 
 - Fresher
 
